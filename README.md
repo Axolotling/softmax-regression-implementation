@@ -1,1 +1,1 @@
-# softmax-regression-implementation
+# Softmax Regression Implementation
